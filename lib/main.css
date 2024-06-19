@@ -1,0 +1,14 @@
+body {
+  font-family: "Iosevka Drom";
+  font-size: 18px;
+  background-color: #222;
+  color: #eee;
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  align-content: center;
+}
+
+line {
+  stroke-linecap: round;
+}
